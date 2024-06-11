@@ -1,0 +1,1076 @@
+<!-- ****************************************************07SECTION AREAS IN DETAIL IMAGE ON LEFT START****************************************************-->
+		 <!-- section start -->
+      <section class="layout-pt-lg layout-pb-lg bg-dark-1">
+        <!-- container start -->
+        <div class="container">
+          <!-- row start -->
+          <div class="row align-items-center">
+
+            <div class="col-lg-6 md:order-2 md:mt-48">
+              <div data-parallax="0.9" class="ratio ratio-3:4">
+                <div data-parallax-target class="bg-image js-lazy" data-bg="img/stockport/Map_ChildrenLibrary.jpg"></div>
+              </div>
+            </div>
+
+            <div class="col-lg-4 offset-lg-1 col-md-10 md:order-1">
+              <div data-anim="slide-up delay-1">
+                <div class="d-flex">
+                  
+                   <p class="text-xl text-accent number fw-400">
+                        05/07
+                      </p>
+                 
+                </div>
+
+                <h2 class="text-4xl sm:text-3xl fw-500 text-white mt-32">
+                  !THIS SHOULD BE RENAMED!
+                </h2>
+
+                <p class="text-lg fw-300 text-white mt-24">
+                  The full cycle of services to create and launch a website from scratch or redesign a live website along with the modern trends and requirements.
+                </p>
+                  
+                  <p class="text-lg fw-300 text-white mt-24">
+                  The full cycle of services to create and launch a website from scratch or redesign a live website along with the modern trends and requirements.
+                </p>
+                  
+                  <p class="text-lg fw-300 text-white mt-24">
+                  Technology used:
+                </p>
+
+                <div class="text-white text-base ml-minus-4 mt-32">
+                  <div class="d-flex align-items-center">
+                    <i class="size-2xs str-width-lg text-accent mr-8" data-feather="minus"></i>
+                    <p>Design audit</p>
+                  </div>
+                  <div class="d-flex align-items-center mt-4">
+                    <i class="size-2xs str-width-lg text-accent mr-8" data-feather="minus"></i>
+                    <p>UI/UX design</p>
+                  </div>
+                  <div class="d-flex align-items-center mt-4">
+                    <i class="size-2xs str-width-lg text-accent mr-8" data-feather="minus"></i>
+                    <p>Prototyping</p>
+                  </div>
+                  <div class="d-flex align-items-center mt-4">
+                    <i class="size-2xs str-width-lg text-accent mr-8" data-feather="minus"></i>
+                    <p>Development</p>
+                  </div>
+                </div>
+
+                <!--<div class="mt-32">
+                  <a href="#" class="button -icon text-lg text-white">
+                    Watch cases
+                    <i class="icon size-sm str-width-md ml-4" data-feather="arrow-right-circle"></i>
+                  </a>
+                </div>-->
+              </div>
+            </div>
+
+          </div>
+          <!-- row start -->
+        </div>
+        <!-- container start -->
+      </section>
+      <!-- section end -->
+          
+<!-- ****************************************************07SECTION AREAS IN DETAIL IMAGE ON LEFT END****************************************************-->
+<!-- ****************************************************08SECTION AREAS IN DETAIL IMAGE ON RIGHT START****************************************************-->
+          <!-- section start -->
+      <section class="layout-pt-md layout-pb-md bg-dark-1">
+        <!-- container start -->
+        <div class="container">
+          <!-- row start -->
+          <div class="row align-items-center">
+
+           <div class="col-lg-4 offset-lg-1 col-md-10 md:order-1">
+              <div data-anim="slide-up delay-1">
+                <div class="d-flex">
+                  
+                   <p class="text-xl text-accent number fw-400">
+                        05/08
+                      </p>
+                 
+                </div>
+
+                <h2 class="text-4xl sm:text-3xl fw-500 text-white mt-32">
+                  Library
+                </h2>
+
+                <p class="text-lg fw-300 text-white mt-24">
+                  The full cycle of services to create and launch a website from scratch or redesign a live website along with the modern trends and requirements.
+                </p>
+                  
+                  <p class="text-lg fw-300 text-white mt-24">
+                  The full cycle of services to create and launch a website from scratch or redesign a live website along with the modern trends and requirements.
+                </p>
+                  
+                  <p class="text-lg fw-300 text-white mt-24">
+                  Technology used:
+                </p>
+
+                <div class="text-white text-base ml-minus-4 mt-32">
+                  <div class="d-flex align-items-center">
+                    <i class="size-2xs str-width-lg text-accent mr-8" data-feather="minus"></i>
+                    <p>Design audit</p>
+                  </div>
+                  <div class="d-flex align-items-center mt-4">
+                    <i class="size-2xs str-width-lg text-accent mr-8" data-feather="minus"></i>
+                    <p>UI/UX design</p>
+                  </div>
+                  <div class="d-flex align-items-center mt-4">
+                    <i class="size-2xs str-width-lg text-accent mr-8" data-feather="minus"></i>
+                    <p>Prototyping</p>
+                  </div>
+                  <div class="d-flex align-items-center mt-4">
+                    <i class="size-2xs str-width-lg text-accent mr-8" data-feather="minus"></i>
+                    <p>Development</p>
+                  </div>
+                </div>
+
+                <!--<div class="mt-32">
+                  <a href="#" class="button -icon text-lg text-white">
+                    Watch cases
+                    <i class="icon size-sm str-width-md ml-4" data-feather="arrow-right-circle"></i>
+                  </a>
+                </div>-->
+              </div>
+            </div>
+
+            <div class="col-lg-6 md:order-2 md:mt-48">
+              <div data-parallax="0.9" class="ratio ratio-3:4">
+                <div data-parallax-target class="bg-image js-lazy" data-bg="img/stockport/Map_Library.jpg"></div>
+              </div>
+            </div>
+
+          </div>
+          <!-- row start -->
+        </div>
+        <!-- container start -->
+      </section>
+      <!-- section end -->
+<!-- ****************************************************08SECTION AREAS IN DETAIL IMAGE ON RIGHT END****************************************************-->
+<!-- ****************************************************09SECTION AREAS IN DETAIL IMAGE ON LEFT START****************************************************-->
+		 <!-- section start -->
+      <section class="layout-pt-lg layout-pb-lg bg-dark-1">
+        <!-- container start -->
+        <div class="container">
+          <!-- row start -->
+          <div class="row align-items-center">
+
+            <div class="col-lg-6 md:order-2 md:mt-48">
+              <div data-parallax="0.9" class="ratio ratio-3:4">
+                <div data-parallax-target class="bg-image js-lazy" data-bg="img/stockport/Map_Library.jpg"></div>
+              </div>
+            </div>
+
+            <div class="col-lg-4 offset-lg-1 col-md-10 md:order-1">
+              <div data-anim="slide-up delay-1">
+                <div class="d-flex">
+                  
+                   <p class="text-xl text-accent number fw-400">
+                        05/09
+                      </p>
+                 
+                </div>
+
+                <h2 class="text-4xl sm:text-3xl fw-500 text-white mt-32">
+                  Museum/Discovery Centre
+                </h2>
+
+                <p class="text-lg fw-300 text-white mt-24">
+                  The full cycle of services to create and launch a website from scratch or redesign a live website along with the modern trends and requirements.
+                </p>
+                  
+                  <p class="text-lg fw-300 text-white mt-24">
+                  The full cycle of services to create and launch a website from scratch or redesign a live website along with the modern trends and requirements.
+                </p>
+                  
+                  <p class="text-lg fw-300 text-white mt-24">
+                  Technology used:
+                </p>
+
+                <div class="text-white text-base ml-minus-4 mt-32">
+                  <div class="d-flex align-items-center">
+                    <i class="size-2xs str-width-lg text-accent mr-8" data-feather="minus"></i>
+                    <p>Design audit</p>
+                  </div>
+                  <div class="d-flex align-items-center mt-4">
+                    <i class="size-2xs str-width-lg text-accent mr-8" data-feather="minus"></i>
+                    <p>UI/UX design</p>
+                  </div>
+                  <div class="d-flex align-items-center mt-4">
+                    <i class="size-2xs str-width-lg text-accent mr-8" data-feather="minus"></i>
+                    <p>Prototyping</p>
+                  </div>
+                  <div class="d-flex align-items-center mt-4">
+                    <i class="size-2xs str-width-lg text-accent mr-8" data-feather="minus"></i>
+                    <p>Development</p>
+                  </div>
+                </div>
+
+                <!--<div class="mt-32">
+                  <a href="#" class="button -icon text-lg text-white">
+                    Watch cases
+                    <i class="icon size-sm str-width-md ml-4" data-feather="arrow-right-circle"></i>
+                  </a>
+                </div>-->
+              </div>
+            </div>
+
+          </div>
+          <!-- row start -->
+        </div>
+        <!-- container start -->
+      </section>
+      <!-- section end -->
+          
+<!-- ****************************************************09SECTION AREAS IN DETAIL IMAGE ON LEFT END****************************************************-->
+<!-- ****************************************************10SECTION AREAS IN DETAIL IMAGE ON RIGHT START****************************************************-->
+          <!-- section start -->
+      <section class="layout-pt-md layout-pb-md bg-dark-1">
+        <!-- container start -->
+        <div class="container">
+          <!-- row start -->
+          <div class="row align-items-center">
+
+           <div class="col-lg-4 offset-lg-1 col-md-10 md:order-1">
+              <div data-anim="slide-up delay-1">
+                <div class="d-flex">
+                  
+                   <p class="text-xl text-accent number fw-400">
+                        05/10
+                      </p>
+                 
+                </div>
+
+                <h2 class="text-4xl sm:text-3xl fw-500 text-white mt-32">
+                  Educational &amp; Maker Space
+                </h2>
+
+                <p class="text-lg fw-300 text-white mt-24">
+                  The full cycle of services to create and launch a website from scratch or redesign a live website along with the modern trends and requirements.
+                </p>
+                  
+                  <p class="text-lg fw-300 text-white mt-24">
+                  The full cycle of services to create and launch a website from scratch or redesign a live website along with the modern trends and requirements.
+                </p>
+                  
+                  <p class="text-lg fw-300 text-white mt-24">
+                  Technology used:
+                </p>
+
+                <div class="text-white text-base ml-minus-4 mt-32">
+                  <div class="d-flex align-items-center">
+                    <i class="size-2xs str-width-lg text-accent mr-8" data-feather="minus"></i>
+                    <p>Design audit</p>
+                  </div>
+                  <div class="d-flex align-items-center mt-4">
+                    <i class="size-2xs str-width-lg text-accent mr-8" data-feather="minus"></i>
+                    <p>UI/UX design</p>
+                  </div>
+                  <div class="d-flex align-items-center mt-4">
+                    <i class="size-2xs str-width-lg text-accent mr-8" data-feather="minus"></i>
+                    <p>Prototyping</p>
+                  </div>
+                  <div class="d-flex align-items-center mt-4">
+                    <i class="size-2xs str-width-lg text-accent mr-8" data-feather="minus"></i>
+                    <p>Development</p>
+                  </div>
+                </div>
+
+                <!--<div class="mt-32">
+                  <a href="#" class="button -icon text-lg text-white">
+                    Watch cases
+                    <i class="icon size-sm str-width-md ml-4" data-feather="arrow-right-circle"></i>
+                  </a>
+                </div>-->
+              </div>
+            </div>
+
+            <div class="col-lg-6 md:order-2 md:mt-48">
+              <div data-parallax="0.9" class="ratio ratio-3:4">
+                <div data-parallax-target class="bg-image js-lazy" data-bg="img/stockport/Map_Makers.jpg"></div>
+              </div>
+            </div>
+
+          </div>
+          <!-- row start -->
+        </div>
+        <!-- container start -->
+      </section>
+      <!-- section end -->
+<!-- ****************************************************10SECTION AREAS IN DETAIL IMAGE ON RIGHT END****************************************************-->  
+    <!-- ****************************************************11SECTION AREAS IN DETAIL IMAGE ON LEFT START****************************************************-->
+		 <!-- section start -->
+      <section class="layout-pt-lg layout-pb-lg bg-dark-1">
+        <!-- container start -->
+        <div class="container">
+          <!-- row start -->
+          <div class="row align-items-center">
+
+            <div class="col-lg-6 md:order-2 md:mt-48">
+              <div data-parallax="0.7" class="ratio ratio-3:4">
+                <div data-parallax-target class="bg-image js-lazy" data-bg="img/stockport/Map_HealthAndWellbeing.jpg"></div>
+              </div>
+            </div>
+
+            <div class="col-lg-4 offset-lg-1 col-md-10 md:order-1">
+              <div data-anim="slide-up delay-1">
+                <div class="d-flex">
+                  
+                   <p class="text-xl text-accent number fw-400">
+                        05/11
+                      </p>
+                 
+                </div>
+
+                <h2 class="text-4xl sm:text-3xl fw-500 text-white mt-32">
+                  Registrar Areas
+                </h2>
+
+                <p class="text-lg fw-300 text-white mt-24">
+                  The full cycle of services to create and launch a website from scratch or redesign a live website along with the modern trends and requirements.
+                </p>
+                  
+                  <p class="text-lg fw-300 text-white mt-24">
+                  The full cycle of services to create and launch a website from scratch or redesign a live website along with the modern trends and requirements.
+                </p>
+                  
+                  <p class="text-lg fw-300 text-white mt-24">
+                  Technology used:
+                </p>
+
+                <div class="text-white text-base ml-minus-4 mt-32">
+                  <div class="d-flex align-items-center">
+                    <i class="size-2xs str-width-lg text-accent mr-8" data-feather="minus"></i>
+                    <p>Design audit</p>
+                  </div>
+                  <div class="d-flex align-items-center mt-4">
+                    <i class="size-2xs str-width-lg text-accent mr-8" data-feather="minus"></i>
+                    <p>UI/UX design</p>
+                  </div>
+                  <div class="d-flex align-items-center mt-4">
+                    <i class="size-2xs str-width-lg text-accent mr-8" data-feather="minus"></i>
+                    <p>Prototyping</p>
+                  </div>
+                  <div class="d-flex align-items-center mt-4">
+                    <i class="size-2xs str-width-lg text-accent mr-8" data-feather="minus"></i>
+                    <p>Development</p>
+                  </div>
+                </div>
+
+                <!--<div class="mt-32">
+                  <a href="#" class="button -icon text-lg text-white">
+                    Watch cases
+                    <i class="icon size-sm str-width-md ml-4" data-feather="arrow-right-circle"></i>
+                  </a>
+                </div>-->
+              </div>
+            </div>
+
+          </div>
+          <!-- row start -->
+        </div>
+        <!-- container start -->
+      </section>
+      <!-- section end -->
+          
+<!-- ****************************************************11SECTION AREAS IN DETAIL IMAGE ON LEFT END****************************************************-->
+
+
+<!-- ****************************************************12SECTION AREAS IN DETAIL IMAGE ON RIGHT START****************************************************-->
+          <!-- section start -->
+      <section class="layout-pt-md layout-pb-md bg-dark-1">
+        <!-- container start -->
+        <div class="container">
+          <!-- row start -->
+          <div class="row align-items-center">
+
+           <div class="col-lg-4 offset-lg-1 col-md-10 md:order-1">
+              <div data-anim="slide-up delay-1">
+                <div class="d-flex">
+                  
+                   <p class="text-xl text-accent number fw-400">
+                        05/12
+                      </p>
+                 
+                </div>
+
+                <h2 class="text-4xl sm:text-3xl fw-500 text-white mt-32">
+                  Flexible Events Spaces
+                </h2>
+
+                <p class="text-lg fw-300 text-white mt-24">
+                  The full cycle of services to create and launch a website from scratch or redesign a live website along with the modern trends and requirements.
+                </p>
+                  
+                  <p class="text-lg fw-300 text-white mt-24">
+                  The full cycle of services to create and launch a website from scratch or redesign a live website along with the modern trends and requirements.
+                </p>
+                  
+                  <p class="text-lg fw-300 text-white mt-24">
+                  Technology used:
+                </p>
+
+                <div class="text-white text-base ml-minus-4 mt-32">
+                  <div class="d-flex align-items-center">
+                    <i class="size-2xs str-width-lg text-accent mr-8" data-feather="minus"></i>
+                    <p>Design audit</p>
+                  </div>
+                  <div class="d-flex align-items-center mt-4">
+                    <i class="size-2xs str-width-lg text-accent mr-8" data-feather="minus"></i>
+                    <p>UI/UX design</p>
+                  </div>
+                  <div class="d-flex align-items-center mt-4">
+                    <i class="size-2xs str-width-lg text-accent mr-8" data-feather="minus"></i>
+                    <p>Prototyping</p>
+                  </div>
+                  <div class="d-flex align-items-center mt-4">
+                    <i class="size-2xs str-width-lg text-accent mr-8" data-feather="minus"></i>
+                    <p>Development</p>
+                  </div>
+                </div>
+
+                <!--<div class="mt-32">
+                  <a href="#" class="button -icon text-lg text-white">
+                    Watch cases
+                    <i class="icon size-sm str-width-md ml-4" data-feather="arrow-right-circle"></i>
+                  </a>
+                </div>-->
+              </div>
+            </div>
+
+            <div class="col-lg-6 md:order-2 md:mt-48">
+              <div data-parallax="0.7" class="ratio ratio-3:4">
+                <div data-parallax-target class="bg-image js-lazy" data-bg="img/stockport/Map_Flexible.jpg"></div>
+              </div>
+            </div>
+
+          </div>
+          <!-- row start -->
+        </div>
+        <!-- container start -->
+      </section>
+      <!-- section end -->
+<!-- ****************************************************12SECTION AREAS IN DETAIL IMAGE ON RIGHT END****************************************************-->  
+        <!-- section end -->
+        <!--01/01 section start -->
+        <section class="layout-pt-sm layout-pb-xs bg-dark-1">
+          <!-- container start -->
+          <div class="container">
+            <!-- row start -->
+            <div class="row justify-content-between">
+              <div class="col-auto">
+                <div class="d-flex text-xs tracking-md pt-4">
+                  <p class="text-accent fw-600 mr-16">01/01</p>
+                  <p class="text-light uppercase fw-500">This is a sub menu to illustrate details</p>
+                </div>
+              </div>
+              <div class="col-xl-7 col-lg-8">
+                <div class="md:mt-20">
+                  <h2 class="text-3xl fw-600 text-white">A short summary</h2>
+                  <p class="leading-5xl text-light mt-24 sm:mt-16">During the previous stages of the process we discovered the following things and established this and that.During the previous stages of the process we discovered the following things and established this and that</p>
+                  <p class="leading-5xl text-light mt-24 sm:mt-16">During the previous stages of the process we discovered the following things and established this and that.During the previous stages of the process we discovered the following things and established this and that</p>
+                  <p class="leading-5xl text-light mt-24 sm:mt-16">During the previous stages of the process we discovered the following things and established this and that.During the previous stages of the process we discovered the following things and established this and that</p>    
+                   </div>
+              </div>
+            </div>
+            <!-- row end --> </div>
+            <!-- container end -->
+        </section>
+        <!-- 01/01 section end -->
+        
+          <!--01/02 section start -->
+        <section class="layout-pt-sm layout-pb-xs bg-dark-1">
+          <!-- container start -->
+          <div class="container">
+            <!-- row start -->
+            <div class="row justify-content-between">
+              <div class="col-auto">
+                <div class="d-flex text-xs tracking-md pt-4">
+                  <p class="text-accent fw-600 mr-16">01/02</p>
+                  <p class="text-light uppercase fw-500">This is a sub menu to illustrate details</p>
+                </div>
+              </div>
+              <div class="col-xl-7 col-lg-8">
+                <div class="md:mt-20">
+                  <h2 class="text-3xl fw-600 text-white">A short summary</h2>
+                  <p class="leading-5xl text-light mt-24 sm:mt-16">During the previous stages of the process we discovered the following things and established this and that.During the previous stages of the process we discovered the following things and established this and that</p>
+                  <p class="leading-5xl text-light mt-24 sm:mt-16">During the previous stages of the process we discovered the following things and established this and that.During the previous stages of the process we discovered the following things and established this and that</p>
+                  <p class="leading-5xl text-light mt-24 sm:mt-16">During the previous stages of the process we discovered the following things and established this and that.During the previous stages of the process we discovered the following things and established this and that</p>    
+                   </div>
+              </div>
+            </div>
+            <!-- row end --> </div>
+            <!-- container end -->
+        </section>
+        <!-- 01/02 section end -->
+        
+        <!-- ****************************************************SECTION 2 END ****************************************************-->  
+        
+        <!-- section start -->
+        <div class="bg-dark-1">
+          <div data-parallax="0.7" class="h-100vh">
+            <video loop  width="100%" height="100%" muted controls autoplay playsinline data-parallax-target class="bg-image js-lazy js-bg-item" data-src="img/stockport/Sunset.mp4">
+                <source src="#" type="video/mp4" data-bg="img/stockport/Sunset.mp4"/>
+                </video>          </div>
+        </div>
+        <!-- section end -->
+        <!-- section start -->
+        <section class="layout-pt-lg layout-pb-lg bg-dark-1">
+          <!-- container start -->
+          <div class="container">
+            <!-- row start -->
+            <div class="row justify-content-between">
+              <div class="col-auto">
+                <div class="d-flex text-xs tracking-md pt-4">
+                  <p class="text-accent fw-600 mr-16">02.-</p>
+                  <p class="text-light uppercase fw-500">Challenges</p>
+                </div>
+              </div>
+              <div class="col-xl-7 col-lg-8">
+                <div class="md:mt-20">
+                  <h2 class="text-3xl fw-600 text-white">An overview of the creative and techological challenges.</h2>
+                  <p class="leading-5xl text-light mt-24 sm:mt-16">We should talk about the challenges we face and bla bla bla</p>
+                </div>
+              </div>
+            </div>
+            <!-- row end --> </div>
+          <!-- container end --> </section>
+        <!-- section end -->
+      		    <!-- section start -->
+      <div>
+        <div class="js-section-slider bg-dark-1" data-slider-col="base-2 lg-2 md-1 sm-1" data-gap="40" data-loop data-center data-pagination>
+          <div class="swiper-wrapper">
+
+            <div class="swiper-slide slider-slide">
+              <div class="ratio ratio-3:2 bg-image swiper-lazy" data-background="img/Harrods/Harrods Screen Segment.jpg"></div>
+            </div>
+
+            <div class="swiper-slide slider-slide">
+              <div class="ratio ratio-3:2 bg-image swiper-lazy" data-background="img/Harrods/Harrods-Dual-Screens.jpg"></div>
+            </div>
+
+            <div class="swiper-slide slider-slide">
+              <div class="ratio ratio-3:2 bg-image swiper-lazy" data-background="img/Harrods/Harrods-Underside-of-Escalators.jpg"></div>
+            </div>
+			  
+			   <div class="swiper-slide slider-slide">
+              <div class="ratio ratio-3:2 bg-image swiper-lazy" data-background="img/Harrods/Harrods-floor-layout.jpg"></div>
+            </div>
+
+
+                <div class="swiper-slide slider-slide">
+              <div class="ratio ratio-3:2 bg-image swiper-lazy" data-background="img/Harrods/Harrods-tes-content-fit.jpg"></div>
+            </div>
+
+
+                <div class="swiper-slide slider-slide">
+              <div class="ratio ratio-3:2 bg-image swiper-lazy" data-background="img/Harrods/Harrods-Side-Screen.jpg"></div>
+            </div>
+
+
+            <div class="swiper-slide slider-slide">
+              <div class="ratio ratio-3:2 bg-image swiper-lazy" data-background="img/Harrods/Harrods-Main-Screen-Image-02.jpg"></div>
+            </div>
+          </div>
+
+          <div class="pagination -light pb-4 mt-48 js-pagination"></div>
+        </div>
+      </div>
+      <!-- section end -->
+        <!-- section start -->
+        <section class="layout-pt-lg layout-pb-lg bg-dark-1">
+          <!-- container start -->
+          <div class="container">
+            <!-- row start -->
+            <div class="row justify-content-between">
+              <div class="col-auto">
+                <div class="d-flex text-xs tracking-md pt-4">
+                  <p class="text-accent fw-600 mr-16">03.-</p>
+                  <p class="text-light uppercase fw-500">The theme</p>
+                </div>
+              </div>
+              <div class="col-xl-7 col-lg-8">
+                <div class="md:mt-20">
+                  <h2 class="text-3xl fw-600 text-white">An overarching theme to unify the experience</h2>
+                  <p class="leading-5xl text-light mt-24 sm:mt-16">Whats the thought process behind our proposed theme, how </p>
+                  <p class="leading-5xl text-light mt-24 sm:mt-16">&nbsp;</p>
+                </div>
+              </div>
+            </div>
+            <!-- row end --> </div>
+        
+		<!-- container end -->
+		    <!-- section start -->
+        <div class="bg-dark-1">
+          <div data-parallax="0.7" class="h-100vh">
+            <div data-parallax-target="" class="bg-image js-lazy" data-bg="img/Harrods/harrods-escalator-main-image.jpg"></div>
+          </div>
+        </div>
+        <!-- section end -->
+        <!-- section start -->
+        <section class="layout-pt-lg layout-pb-lg bg-dark-1">
+          <!-- container start -->
+          <div class="container">
+            <!-- row start -->
+            <div class="row justify-content-between">
+              <div class="col-auto">
+                <div class="d-flex text-xs tracking-md pt-4">
+                  <p class="text-accent fw-600 mr-16">04.-</p>
+                  <p class="text-light uppercase fw-500">Technology</p>
+                </div>
+              </div>
+              <div class="col-xl-7 col-lg-8">
+                <div class="md:mt-20">
+                  <h2 class="text-3xl fw-600 text-white">Proposed technology solutions</h2>
+                  <p class="leading-5xl text-light mt-24 sm:mt-16">A Detailed summary of what technology we're recommending (Signage screens, AR, Big Screen AR, Different Holographic screens, Touchscreens, Projection, LED Strips, LED walls, Smartphone Apps)</p>
+                </div>
+              </div>
+            </div>
+            <!-- row end --> </div>
+          <!-- container end --> </section>
+        <!-- section end -->
+            
+            <!-- section start -->
+        <section class="layout-pt-lg layout-pb-lg bg-dark-1">
+          <!-- container start -->
+          <div class="container">
+            <!-- row start -->
+            <div class="row justify-content-between">
+              <div class="col-auto">
+                <div class="d-flex text-xs tracking-md pt-4">
+                  <p class="text-accent fw-600 mr-16">05.-</p>
+                  <p class="text-light uppercase fw-500">Areas Breakdown</p>
+                </div>
+              </div>
+              <div class="col-xl-7 col-lg-8">
+                <div class="md:mt-20">
+                  <h2 class="text-3xl fw-600 text-white">Detailed introduction to each areas and how their functionality is driven by technology </h2>
+                  <p class="leading-5xl text-light mt-24 sm:mt-16">This section </p>
+                </div>
+              </div>
+            </div>
+            <!-- row end --> </div>
+          <!-- container end --> </section>
+        <!-- section end -->
+            
+            <!-- section start -->
+        <section class="layout-pt-lg layout-pb-lg bg-dark-1">
+          <!-- container start -->
+          <div class="container">
+            <!-- row start -->
+            <div class="row justify-content-between">
+              <div class="col-auto">
+                <div class="d-flex text-xs tracking-md pt-4">
+                  <p class="text-accent fw-600 mr-16">04.-</p>
+                  <p class="text-light uppercase fw-500">Technology</p>
+                </div>
+              </div>
+              <div class="col-xl-7 col-lg-8">
+                <div class="md:mt-20">
+                  <h2 class="text-3xl fw-600 text-white">Proposed technology solutions</h2>
+                  <p class="leading-5xl text-light mt-24 sm:mt-16">A Detailed summary of what technology we're recommending (Signage screens, AR, Big Screen AR, Different Holographic screens, Touchscreens, Projection, LED Strips, LED walls, Smartphone Apps)</p>
+                </div>
+              </div>
+            </div>
+            <!-- row end --> </div>
+          <!-- container end --> </section>
+        <!-- section end -->
+  
+            <!-- section start -->
+      <section class="layout-pt-2xl layout-pb-md">
+        <div data-anim-wrap>
+            <!-- container start -->
+          <div class="container">
+            <!-- row start -->
+            <div class="row justify-content-between">
+              <div class="col-auto">
+                <div class="d-flex text-xs tracking-md pt-4">
+                  <p class="text-accent fw-600 mr-16">04.-</p>
+                  <p class="text-light uppercase fw-500">The Outcome&nbsp;</p>
+                </div>
+              </div>
+              <div class="col-xl-7 col-lg-8">
+                <div class="md:mt-20">
+                  <h2 class="text-3xl fw-600 text-white">An iconic feature at a key entrance&nbsp;</h2>
+                  <p class="leading-5xl text-light mt-24 sm:mt-16">The screens cover all five floors of the escalator hall providing rich, engaging and impactful media content at significant scale which is viewed by thousands of visitors each and every day. The system allows rapid deployment of content, meaning the messaging can be tailored to suit everything from the weather that day, showing artful content on umbrellas during wet weather day, through to a specific brand product launch on any floor or department which might be launching that day/week. </p>
+                  <p class="text-lg text-white mt-24 sm:mt-16">&nbsp;</p>
+                </div>
+              </div>
+            </div>
+            <!-- row end --> </div>
+            </div>
+      </section>
+            <!-- section end -->
+            
+             <!-- Small image section start -->
+      <section class="layout-pt-2xl layout-pb-md">
+        <div data-anim-wrap>
+                <!-- container start -->
+            <section class="layout-pt-2xl layout-pb-md">
+        <div data-anim-wrap>
+          <div class="container-wide layout-pt-lg">
+            <div data-anim-child="slide-up delay-3" data-parallax="0.7" class="h-lg">
+              <div data-parallax-target class="bg-image js-lazy" data-bg="img/backgrounds/4.jpg"></div>
+            </div>
+          </div>
+         <!-- container end -->
+                </div>
+            </section>
+        <!-- Small image  section ends -->       
+        <!-- section starts -->
+            
+            
+          <!--**************************************************** ONE HEADLINE WITH SOME TEXT START!!! **************************************************** -->
+            <section class="layout-pt-2xl  layout-pb-md">
+        <div data-anim-wrap>
+          <div class="container-wide layout-pt-lg">
+            <div data-anim-child="slide-up delay-3" data-parallax="0.7" class="h-lg">
+               <video loop  width="100%" height="100%" muted controls autoplay playsinline data-parallax-target class="bg-image js-lazy js-bg-item" data-src="img/stockport/Stockport_Town.mp4">
+                <source src="#" type="video/mp4" data-bg="img/stockport/Stockport_Town.mp4"/>
+                </video> 
+            </div>
+          </div>
+         <!-- container end -->
+         <!-- container start -->
+          <div class="container">
+            <!-- row start -->
+            <div class="row layout-pt-xs justify-content-between">
+
+              <div class="col-lg-6 col-md-10">
+                <div data-anim-child="slide-up" class="sectionHeading  -sm">
+                  <h1 class="text-white sectionHeading__title">
+                   This could be a headline for each tech
+                  </h1>
+                </div>
+              </div>
+
+
+              <div class="col-lg-5 col-md-10 md:mt-32 sm:mt-20">
+                <div data-anim-child="slide-up delay-1">
+                  <p class="text-light text-lg sm:text-base">
+                    Moveth brought face. Without of given land thing own. Sea yielding second you're abundantly shall created Under whose also bearing tree night.
+                  </p>
+                  <p class="text-light text-lg sm:text-base mt-32 md:mt-20">
+                    Give life form isn't third there form bearing day can't. Which subdue, divide subdue two, there evening. Is firmament, grass own had. Bring man created also bearing set air. Under make seasons third very, isn't subdue third seasons land living his i meat.
+                  </p>
+              </div>
+              </div>
+
+            </div>
+            <!-- row end -->
+          </div>
+          <!-- container end -->
+        </div>
+      </section>
+   <!--**************************************************** ONE HEADLINE WITH SOME TEXT END!!! **************************************************** -->
+            
+            
+			 <!-- container start -->
+          <div class="container">
+             <!-- row start -->
+            <div class="row justify-content-between">
+              <div class="col-auto">
+                <div class="d-flex text-xs tracking-md pt-4">
+                  <p class="text-accent fw-600 mr-16">05.-</p>
+                  <p class="text-light uppercase fw-500">Media and Press&nbsp;</p>
+                <p class="leading-5xl text-light mt-24 sm:mt-16">&nbsp;  </p>
+                </div>
+              </div>
+        <div class="col-xl-7 col-lg-8">
+            <div class="md:mt-20">
+                 <p class="text-light"><a target="_blank" href="https://www.archilovers.com/projects/131036/harrods-escalator-hall-3.html"><u>Asrchilovers Article</u></a></p>
+                </div>
+        </div>
+            </div>
+            <!-- row end --> </div>
+     <!-- *******************************************LINKS START*************************************** --> 
+			 <!-- container start -->
+          <div class="container">
+            <!-- row start -->
+            <div class="row justify-content-between">
+              <div class="col-auto">
+                <div class="d-flex text-xs tracking-md pt-4">
+                  <p class="text-accent fw-600 mr-16">//</p>
+                  <p class="text-light uppercase fw-500">Partners</p>
+                </div>
+              </div>
+            <div class="col-xl-7 col-lg-8">
+                <div class="md:mt-20">
+                <p class="text-light"><a target="_blank" href="http://www.vivid.co.uk/"><u>Vivid Digital Retail</u></a></p>
+                <p class="text-light"> <a target="_blank" href="https://jaysam.co.uk/portfolio/retail"><u>Jaysam</u></a></p>
+            </div>
+            <!-- row end --> </div>
+                </div>
+              </div>
+             <!-- container end --> 
+		  </div>
+        </section>
+       <!-- section end -->
+        <!-- *******************************************LINKS END*************************************** --> 
+            
+       <!-- *******************************************EACH HEADER START HERE *************************************** -->       
+           <!-- section start -->
+      <section class="layout-pt-lg layout-pb-lg">
+        <!-- container start -->
+        <div class="container">
+          <!-- row start -->
+          <div class="row">
+            <div class="col-xl-7 col-lg-8">
+              <div class="d-flex text-xs tracking-md pt-4">
+                <p class="text-accent fw-600 mr-16">01.-</p>
+                <p class="uppercase text-white fw-500">Context</p>
+              </div>
+              <div class="mt-20">
+                <h2 class="text-3xl text-white fw-600">
+                  Challenge
+                </h2>
+                <p class="leading-5xl text-light text-lg mt-24 sm:mt-16">
+                  Good. Deep midst. They're good unto likeness man i forth. Place image. You're evening. Creepeth seas dominion likeness, fowl evening place firmament. Fowl green whose behold. Very. Yielding. Greater seed place, thing fill multiply. Third forth. Cattle form wherein life also she'd they're don't, in place may one morning fifth yielding. Fifth night winged wherein replenish open called open.
+                </p>
+              </div>
+            </div>
+          </div>
+          <!-- row end -->
+        </div>
+        <!-- container end -->
+      </section>
+      <!-- section end -->
+
+            
+<!-- *******************************************EACH HEADER END HERE *************************************** -->       
+<!--****************************************************************** Small image with annotation START ************************************************************ -->
+        <section class="bg-dark-1">
+        <div data-anim-wrap>
+          <div class="container-wide layout-pt-xs">
+            <div data-anim-child="slide-up delay-3" data-parallax="0.7" class="h-lg">
+              <div data-parallax-target class="bg-image js-lazy" data-bg="img/stockport/groundfloor.jpg"></div>
+            </div>
+          </div>
+         <!-- container end -->
+                </div>
+            </section>
+        <!-- Small image  section ends --> 
+        <!-- section start -->
+      <section class="bg-dark-1">
+        <!-- container start -->
+        <div class="container">
+          <!-- row start -->
+          <div class="row">
+            <div class="col-xl-7 col-lg-8">
+              <div class="d-flex text-xs tracking-md pt-4">
+                <p class="text-accent fw-600 mr-16">01/02</p>
+                <p class="uppercase text-light fw-500">Ground Floor Area</p>
+              </div>
+              <div class="mt-20">
+              </div>
+            </div>
+          </div>
+          <!-- row end -->
+        </div>
+        <!-- container end -->
+      </section>
+      <!-- section end -->
+<!--****************************************************************** Small image with annotation END ************************************************************ -->
+<!--****************************************************************** Small image with annotation START ************************************************************ -->
+        <section class="bg-dark-1">
+        <div data-anim-wrap>
+          <div class="container-wide layout-pt-xs">
+            <div data-anim-child="slide-up delay-3" data-parallax="0.7" class="h-lg">
+              <div data-parallax-target class="bg-image js-lazy" data-bg="img/stockport/firstfloor.jpg"></div>
+            </div>
+          </div>
+         <!-- container end -->
+                </div>
+            </section>
+        <!-- Small image  section ends --> 
+		<!-- section start -->
+      <section class="bg-dark-1">
+        <!-- container start -->
+        <div class="container">
+          <!-- row start -->
+          <div class="row">
+            <div class="col-xl-7 col-lg-8">
+              <div class="d-flex text-xs tracking-md pt-4">
+                <p class="text-accent fw-600 mr-16">01/03</p>
+                <p class="uppercase text-light fw-500">First Floor Area</p>
+              </div>
+              <div class="mt-20">
+              </div>
+            </div>
+          </div>
+          <!-- row end -->
+        </div>
+        <!-- container end -->
+      </section>
+   <!--****************************************************************** Small image with annotation END ************************************************************ -->
+            
+               <!-- *******************************************LINKS START*************************************** --> 
+          <section class="layout-pt-sm layout-pb-md">
+        <div data-anim-wrap>
+       <!-- container start -->
+          <div class="container">
+            <!-- row start -->
+            <div class="row justify-content-between">
+              <div class="col-auto">
+                <div class="d-flex text-xs tracking-md pt-4">
+                  <p class="text-accent fw-600 mr-16">03/06</p>
+                  <p class="text-light uppercase fw-500">External LINKS</p>
+                </div>
+              </div>
+            <div class="col-xl-7 col-lg-8">
+                <div class="md:mt-20">
+                <p class="text-light"><a target="_blank" href="http://www.vivid.co.uk/"><u>Vivid Digital Retail</u></a></p>
+                <p class="text-light"> <a target="_blank" href="https://jaysam.co.uk/portfolio/retail"><u>Jaysam</u></a></p>
+            </div>
+            <!-- row end --> </div>
+                </div>
+              </div>
+             <!-- container end --> 
+      </div>
+        </section>
+       <!-- section end -->
+        <!-- *******************************************LINKS END*************************************** -->  
+
+         <!--******************************************* VIDEO TEXT ENDS *******************************************  -->
+    <!-- TECHNOLOGICAL ITEMS 04/04 IMAGES WITH TEXT START -->
+         <!-- Small image section start -->
+        <section class="bg-dark-1">
+        <div data-anim-wrap>
+          <div class="container-wide layout-pt-xs">
+          <div data-anim-child="slide-up delay-3" data-parallax="0.7" class="h-lg">
+              <video loop  width="100%" height="100%" muted controls autoplay playsinline data-parallax-target class="bg-image js-lazy js-bg-item" data-src="img/stockport/Signage.mp4">
+                <source src="#" type="video/mp4" data-bg="img/stockport/Signage.mp4"/>
+                </video>
+            </div>
+          </div>
+         <!-- container end -->
+                </div>
+            </section>
+        <!-- Small image  section ends --> 
+<!-- *******************************************04/05 VIDEO ENDS HERE *************************************** -->  
+
+          <!-- *******************************************04/08 HEADER START HERE *************************************** -->       
+           <!-- section start -->
+      <section class="layout-pt-sm bg-dark-1 layout-pb-xs">
+        <!-- container start -->
+        <div class="container">
+          <!-- row start -->
+          <div class="row">
+            <div class="col-xl-7 col-lg-8">
+              <div class="d-flex text-xs tracking-md pt-4">
+                <p class="text-accent fw-600 mr-16">04/08</p>
+                <p class="uppercase text-light fw-500">3D Sound System</p>
+              </div>
+              <div class="mt-20">
+                <h2 class="text-3xl text-white fw-600">
+                Spatial Audio
+                </h2>
+              </div>
+            </div>
+          </div>
+          <!-- row end -->
+        </div>
+        <!-- container end -->
+      </section>
+      <!-- section end -->
+            
+<!-- *******************************************04/08 HEADER ENDs HERE *************************************** -->          
+      <!-- TECHNOLOGICAL ITEMS 04/08 IMAGES WITH TEXT START -->
+         <!-- Small image section start -->
+        <section class="bg-dark-1">
+        <div data-anim-wrap>
+          <div class="container-wide layout-pt-xs">
+           <div data-anim-child="slide-up delay-3" data-parallax="0.7" class="h-lg">
+              <video loop  width="100%" height="100%" muted controls autoplay playsinline data-parallax-target class="bg-image js-lazy js-bg-item" data-src="img/stockport/SpatialAudio.mp4">
+                <source src="#" type="video/mp4" data-bg="img/stockport/SpatialAudio.mp4"/>
+                </video>
+            </div>
+          </div>
+         <!-- container end -->
+                </div>
+            </section>
+        <!-- Small image  section ends --> 
+       <!-- TECHNOLOGICAL ITEMS 04/07 IMAGES WITH TEXT END -->
+    <!--******************************************* 04/07 TEXT START *******************************************  -->
+      <!-- section start -->
+      <section class="bg-dark-1">
+        <!--01/01 section start -->
+        <section class=" layout-pb-xs bg-dark-1">
+          <!-- container start -->
+          <div class="container">
+            <!-- row start -->
+          <div class="row x-gap-60 y-gap-60">
+            <div class="col-md-6 text-light">
+              <div class="">
+               
+                <p class="mt-16">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum enim purus, dignissim at lorem vel, accumsan aliquet nulla. Fusce odio magna, laoreet et viverra ac, malesuada in tortor. In risus lorem, euismod in aliquet tempus, feugiat nec metus. Duis ut.
+                </p>
+           <p class="mt-16">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum enim purus, dignissim at lorem vel, accumsan aliquet nulla. Fusce odio magna, laoreet et viverra ac, malesuada in tortor. In risus lorem, euismod in aliquet tempus, feugiat nec metus. Duis ut.
+                </p>
+          </div>
+            </div>
+
+            <div class="col-md-6 text-light">
+              <div class="">
+                
+                <p class="mt-16">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum enim purus, dignissim at lorem vel, accumsan aliquet nulla. Fusce odio magna, laoreet et viverra ac, malesuada in tortor. In risus lorem, euismod in aliquet tempus, feugiat nec metus. Duis ut.
+                </p>
+          <p class="mt-16">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum enim purus, dignissim at lorem vel, accumsan aliquet nulla. Fusce odio magna, laoreet et viverra ac, malesuada in tortor. In risus lorem, euismod in aliquet tempus, feugiat nec metus. Duis ut.
+                </p>
+      </div>
+            </div>
+
+          </div>
+          <!-- row end -->
+        </div>
+            <!-- container end -->
+        </section>
+<!--******************************************* 04/07 TEXT ENDS *******************************************  -->
+          
+      </section>
+      <!-- section end --> 
+            
+        
+         <!-- section start -->
+      <section class="layout-pt-2xl bg-dark-1 layout-pb-md">
+        <div data-anim-wrap>
+
+          <!-- container start -->
+          <div class="container">
+            <!-- row start -->
+            <div class="row justify-content-between">
+
+              <div class="col-lg-6 col-md-10">
+                <div data-anim-child="slide-up" class="sectionHeading  -sm">
+                  <h1 class="text-white sectionHeading__title">
+                    14 years of successful projects and digital expertise that we can’t wait to share with you.
+                  </h1>
+                </div>
+              </div>
+
+
+              <div class="col-lg-5 col-md-10 md:mt-32 sm:mt-20">
+                <div data-anim-child="slide-up delay-1">
+                  <p class="text-light text-lg sm:text-base">
+                    Moveth brought face. Without of given land thing own. Sea yielding second you're abundantly shall created Under whose also bearing tree night.
+                  </p>
+                  <p class="text-light text-lg sm:text-base mt-32 md:mt-20">
+                    Give life form isn't third there form bearing day can't. Which subdue, divide subdue two, there evening. Is firmament, grass own had. Bring man created also bearing set air. Under make seasons third very, isn't subdue third seasons land living his i meat.
+                  </p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                </div>
+              </div>
+
+            </div>
+            </div>
+            </div>
+            </section>
+        <!-- section ends -->
